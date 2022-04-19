@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>WIN_20220415_21_02_10_Pro.jpg</filename>
+	<path>C:\Users\alan-\Tensorflow\workspace\training_demo\images\WIN_20220415_21_02_10_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>538</xmin>
+			<ymin>482</ymin>
+			<xmax>753</xmax>
+			<ymax>639</ymax>
+		</bndbox>
+	</object>
+</annotation>
