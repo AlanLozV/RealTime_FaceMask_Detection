@@ -15,9 +15,11 @@ This project contains all necessary code and files to develop the Face Mask Dete
 * model_main_tf2.py: Creates and runs TF2 object detection models. It is the file needed to start training the model with an existing pipeline configuration. 
 * pipeline.config: This file contains the setup for training the model, including number of classes, batch size, hyperparameters for training and evaluation metrics.
 
-# How to Install the Project
-* Make sure all the necessary files are uploaded in the appropriate path. 
-* Install the required libraries
+# How to clone and prepare the environment for the Project
+* Make sure you have an existing directory named 'workspace' and clone the repository in it using: 
+git clone https://github.com/AlanLozV/RealTime_FaceMask_Detection.git. 
+
+* Open an anaconda prompt and create a new tensorflow environment. Make sure you install the required libraries:
    1. pip install pandas
    2. pip install numpy
    3. pip install tensorflow
@@ -53,5 +55,6 @@ For further reference you can visit: https://tensorflow-object-detection-api-tut
 # Software
 * Jupyter Notebook
 * Anaconda 3
+* Git
 
 
